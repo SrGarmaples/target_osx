@@ -1,6 +1,6 @@
 # Super Mario 64 Port
 
-### NOTE: Please download the source code from the latest release, not by downloading the .zip of the code directly as I have not yet figured out why my setup is working despite having made the same changes to the repo I forked this from.
+### NOTE: This is now outdated as an official fix has been implemented in the original repository for a while now.
 
 Read the wiki for build instructions: https://github.com/Zoltar007/target_osx/wiki
 
